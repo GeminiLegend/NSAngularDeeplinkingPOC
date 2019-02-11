@@ -1,5 +1,5 @@
 import { Component, OnInit, OnDestroy, EventEmitter, NgZone } from "@angular/core";
-import { ReplaySubject } from 'rxjs/ReplaySubject';
+import { ReplaySubject } from 'rxjs';
 
 import { RouterExtensions } from 'nativescript-angular';
 import * as application from 'application';

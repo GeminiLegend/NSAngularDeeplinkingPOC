@@ -1,4 +1,4 @@
-import { ReplaySubject } from 'rxjs/ReplaySubject';
+import { ReplaySubject } from 'rxjs';
 import { setActivityCallbacks, AndroidActivityCallbacks } from 'ui/frame';
 
 export var AndroidOnRouteToURL = new ReplaySubject<string>();
