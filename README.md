@@ -1,4 +1,4 @@
-# tns-ng-deeplink
+# NSAngularDeeplinkingPOC
 Test repository for nativescript-angular deep-linking
 
 The following works as a deep-link in this demo-repo:
